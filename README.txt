@@ -28,6 +28,3 @@ AUTHOR
     Alice Wang
     Shyamolee Desai
     Nov 14, 2014
-
-    For more things at the intersection of CS and cute: 
-    https://github.com/Ahris/
