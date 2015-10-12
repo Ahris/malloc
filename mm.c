@@ -1,4 +1,4 @@
-/**mm.c - Malloc implementation written by Alice Wang and Shyamolee Desai
+/**mm.c - Malloc implementation written by Alice Wang and Shyamolee
  *
  * This implementation uses explicit seglists. The seglists are sorted
  * by last use and find fit uses first fit to find an appropriate block
@@ -30,11 +30,11 @@ team_t team = {
         /* First member's full name */
         "Alice Wang",
         /* First member's email address */
-        "alicewang54@gmail.com",
+        "",
         /* Second member's full name (leave blank if none) */
-        "Shyamolee Desai",
+        "Shyamolee",
         /* Second member's email address (leave blank if none) */
-        "skdesai@wustl.edu"
+        ""
 };
 
 /* Double word (8) alignment */
